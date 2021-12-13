@@ -1,0 +1,67 @@
+<html>
+<style>
+
+table, tr, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align:center
+}
+</style>
+
+<head>
+<title> My presentation </title>
+<body> 
+
+My name is <b>Milica</b>. This is my presentation. 
+
+
+<table>
+
+ <tr style="height: 2cm;">
+
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;">1</td >
+         <td style="width: 2cm;">2</td >
+         <td style="width: 2cm;">3</td >
+         <td style="width: 2cm;">4</td >
+
+ </tr>
+<tr style="height: 2cm;">
+
+         <td style="width: 2cm;">1</td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+ </tr>
+  
+  <tr style="height: 2cm;">
+
+         <td style="width: 2cm;">2</td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+ </tr>
+ <tr style="height: 2cm;">
+
+         <td style="width: 2cm;">3</td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+ </tr>
+  
+  <tr style="height: 2cm;">
+
+         <td style="width: 2cm;">4</td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+         <td style="width: 2cm;"></td >
+ </tr>
+      </table>  
+
+</body>
+</head>
+</html>
